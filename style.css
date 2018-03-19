@@ -1,0 +1,43 @@
+
+
+.nav-item a {
+    color: #777777;
+}
+
+.navbar {
+    margin: 50px;
+
+    margin-left: -30px;
+}
+.navbar-light .navbar-brand {
+    color: red;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-bottom: 10rem;
+    background-color: indianred;
+    border-radius: .8rem;
+    padding: 2 rem 5rem;
+    align-content: center;
+    padding-bottom: 5.5em;
+
+    }
+
+    .display-4 {
+        font-size: 1.5rem;
+        font-weight: 300;
+        line-height: 1.2;
+        color: black;
+        text-align: left;
+
+    }
+
+    .footer {
+        background-color: aqua;
+        text-align: center;
+    }
+
+#formGroupExampleInput3 {
+    padding: 3rem;
+}
